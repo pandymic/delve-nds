@@ -1,0 +1,2 @@
+# 4bpp paletted texture, magenta colour key
+-gx -gb -gB4 -gTFF00FF

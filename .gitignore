@@ -1,0 +1,9 @@
+build/
+*.nds
+*.elf
+*.map
+*.dump
+*.sav
+compile_commands.json
+tests/bin/
+__pycache__/

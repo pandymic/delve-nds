@@ -1,0 +1,2 @@
+# 16x16 OBJ sprites, 4bpp, 1D mapping order
+-gt -gB4 -gTFF00FF -Mw2 -Mh2

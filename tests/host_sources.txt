@@ -1,0 +1,21 @@
+# Platform-independent modules compiled into the host test binary.
+# One per line, prefixed with "HOST:".
+HOST: source/rng.c
+HOST: source/fixed.c
+HOST: source/camera.c
+HOST: source/room.c
+HOST: source/game.c
+HOST: source/player.c
+HOST: source/enemy.c
+HOST: source/run.c
+HOST: source/roomgen.c
+HOST: source/difficulty.c
+HOST: source/meta.c
+HOST: source/save.c
+HOST: source/anim.c
+HOST: source/rogue.c
+HOST: source/fx.c
+HOST: source/boon.c
+HOST: source/hint.c
+HOST: source/area.c
+HOST: source/cheat.c
